@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kKaskak
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning html css js react python and more
+- 🌱 I’m currently learning js react python and more
 - 💞️ I’m looking to collaborate on everything and looking for a remote front end dev job 
 - 📫 How to reach me: @kKaskak on every platform 
 - btw im 18 and i like to learn more about development of basically everything lol
