@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kKaskak
+- 👋 Hi, I’m Timothy Z. also known as @kKaskak
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning js react python and more
 - 💞️ I’m looking to collaborate on everything and looking for a remote front end dev job 
