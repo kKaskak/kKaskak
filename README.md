@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Data Structures and algorithms, Next.js, Pixi.js, React 18, React Native**
 
-- 👨‍💻 All of my projects are available at: [https://kkaskak.com](https://www.kkaskak.com)
+- 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
 
 - 📝 I regularly write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
