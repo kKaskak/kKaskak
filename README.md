@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 🔭 I’m currently working on [text-anim](private)
+- 🔭 I’m currently working on: [text-anim](private)
 
-- 🌱 I’m currently learning **Data Structures and algorithms, Next.js, Pixi.js, React 18, React Native**
+- 🌱 I’m currently learning: **Data Structures and algorithms, Next.js, Pixi.js, React 18, React Native**
 
-- 👨‍💻 All of my projects are available at [https://kkaskak.com](https://kkaskak.com)
+- 👨‍💻 All of my projects are available at: [https://kkaskak.com](https://www.kkaskak.com)
 
-- 📝 I regularly write articles on [https://curiositytakeover.com](https://curiositytakeover.com)
+- 📝 I regularly write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
-- 💬 Ask me about **React JS, React hooks, JavaScript**
+- 💬 Ask me about: **JavaScript & React JS**
 
-- 📫 How to reach me **tzimostrad@gmail.com**
+- 📫 How to reach me: **tzimostrad@gmail.com**
 
-- ⚡ Fun fact **I am still 17yo**
+- ⚡ Fun fact: **I am still 17yo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
