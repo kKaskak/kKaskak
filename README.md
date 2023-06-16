@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 🔭 I’m currently working on: [text-anim](private)
+- 🔭 I’m currently working on: Scrollable text animations [repo still private]
 
 - 🌱 I’m currently learning: **Data Structures and algorithms, Next.js, Pixi.js, React 18, React Native**
 
