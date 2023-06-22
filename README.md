@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: React Native Deliveroo Clone [deliveroo-clone]
 
-- 🌱 I’m currently learning: **Data Structures and algorithms, Next.js, Pixi.js, React 18, React Native**
+- 🌱 I’m currently learning: **Data Structures and algorithms, React 18, React Native**
 
 - 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **tzimostrad@gmail.com**
 
-- ⚡ Fun fact: **I am still 17yo**
+- ⚡ Fun fact: **I like dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
