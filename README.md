@@ -1,17 +1,15 @@
 <h2 align="center">Hi 👋! I'm Timothy, also known as @kKaskak</h2>
-<h3 align="center">A passionate developer currently working on one of the biggest streaming platforms online</h3>
+<h3 align="center">Currently working on one of the biggest streaming platforms online</h3>
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 🔭 I’m currently working on: React Native Deliveroo Clone [deliveroo-clone]
+- 🔭 I’m currently working on: Streamio [stremio-web] 
 
-- 🌱 I’m currently learning: **Data Structures and algorithms, React 18, React Native**
+- 🌱 I’m currently learning: ** Solid JS, TypeScript & React Native**
 
 - 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
 
 - 📝 I regularly write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
-
-- 💬 Ask me about: **JavaScript & React JS**
 
 - 📫 How to reach me: **tzimostrad@gmail.com**
 
