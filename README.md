@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: Streamio [stremio-web] 
 
-- 🌱 I’m currently learning: ** Solid JS, TypeScript & React Native**
+- 🌱 I’m currently learning: **Solid JS, TypeScript & React Native**
 
 - 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
 
