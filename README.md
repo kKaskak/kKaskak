@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm Timothy, also known as @kKaskak</h2>
-<h3 align="center">Currently working on one of the biggest streaming platforms online</h3>
+<h3 align="center">Currently helping the Stremio team</h3>
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
