@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
 
-- 📝 I regularly write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
+- 📝 I write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
 - 📫 How to reach me: **tzimostrad@gmail.com**
 
