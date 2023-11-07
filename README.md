@@ -1,9 +1,8 @@
 <h2 align="center">Hi 👋! I'm Timothy, also known as @kKaskak</h2>
-<h3 align="center">Currently helping the Stremio team</h3>
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 🔭 I’m currently working on: Stremio [stremio-web] 
+- 🔭 I’m currently working on: Stremio [stremio-web]
 
 - 🌱 I’m currently learning: **Solid JS, TypeScript & React Native**
 
