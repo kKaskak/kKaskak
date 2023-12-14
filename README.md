@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Solid JS, TypeScript & React Native**
 
-- 👨‍💻 All of my biggest projects are available live at: [https://kkaskak.com](https://www.kkaskak.com)
+- 👨‍💻 All of my biggest projects are available live at: [https://www.timothy-z.xyz](https://www.timothy-z.xyz)
 
 - 📝 I write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
