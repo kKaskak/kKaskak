@@ -2,10 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 🔭 I’m currently working on: Stremio [stremio-web]
-
-- 🌱 I’m currently learning: **Solid JS, TypeScript & React Native**
-
 - 👨‍💻 All of my biggest projects are available live at: [https://www.timothy-z.xyz](https://www.timothy-z.xyz)
 
 - 📝 I write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
