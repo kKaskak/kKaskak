@@ -2,11 +2,14 @@
 
 <p align="left"> <a href="https://twitter.com/kkaskak" target="blank"><img src="https://img.shields.io/twitter/follow/kkaskak?logo=twitter&style=for-the-badge" alt="kkaskak" /></a> </p>
 
-- 👨‍💻 All of my biggest projects are available live at: [https://www.timothy-z.xyz](https://www.timothy-z.xyz)
+- 👨‍💻 All of my biggest projects are available live at:
+ [https://www.timothy-z.xyz](https://www.timothy-z.xyz)
 
-- 📝 I write articles on: [https://curiositytakeover.com](https://www.curiositytakeover.com)
+- 📝 I write articles on: 
+[https://curiositytakeover.com](https://www.curiositytakeover.com)
 
-- 📫 How to reach me: **tzimostrad@gmail.com**
+- 📫 How to reach me: 
+**tzimostrad@gmail.com**
 
 <h3 align="left">Connect</h3>
 <p align="left">
