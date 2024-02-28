@@ -12,8 +12,9 @@
 **timothy@stremio.com**
 
 <h3 align="left">Connect</h3>
+<a href="https://www.linkedin.com/in/timothy-z/">
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </a>
 
 <h3 align="left">Languages and Tools:</h3>
 
