@@ -19,4 +19,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,react,html,css,nodejs,expressjs,mongodb,rust,solid)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vscode,react,html,css,nodejs,expressjs,mongodb,rust,sass,ts)](https://skillicons.dev)
