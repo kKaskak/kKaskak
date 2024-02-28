@@ -9,7 +9,7 @@
 [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
 - 📫 How to reach me: 
-**tzimostrad@gmail.com**
+**timothy@stremio.com**
 
 <h3 align="left">Connect</h3>
 <p align="left">
