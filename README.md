@@ -11,7 +11,7 @@
 - 📫 How to reach me: 
 **timothy@stremio.com**
 
-  ![](https://komarev.com/ghpvc/?username=kkaskak&color=dc143c)
+  ![](https://komarev.com/ghpvc/?username=kkaskak&color=dc143c&abbreviated=true)
 
 <h3 align="left">Languages and Tools</h3>
 
