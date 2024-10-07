@@ -1,5 +1,3 @@
-<h2 align="center">👋 I'm Timothy!</h2>
-
 - I currently work as a full-stack developer at Stremio 
   [https://www.stremio.com](https://www.stremio.com)
 - 👨‍💻 All of my biggest projects are available live at:
