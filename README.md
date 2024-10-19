@@ -3,9 +3,6 @@
 
 - 👨‍💻 Web2, Web3, Rust
 
-- 📝 I write articles on: 
-[https://curiositytakeover.com](https://www.curiositytakeover.com)
-
 - 📫 How to reach me: 
 **timothy@stremio.com**
 
