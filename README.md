@@ -1,13 +1,15 @@
 - I currently work as a full-stack developer at Stremio 
   [https://www.stremio.com](https://www.stremio.com)
-- 👨‍💻 All of my biggest projects are available live at:
- [https://www.timothy-z.xyz](https://www.timothy-z.xyz)
+
+- 👨‍💻 Web2, Web3, Rust
 
 - 📝 I write articles on: 
 [https://curiositytakeover.com](https://www.curiositytakeover.com)
 
 - 📫 How to reach me: 
 **timothy@stremio.com**
+
+- 💸 ETH Sofia Hackathon bounty winner 🏆 (iExec, ICP)
 
   ![](https://komarev.com/ghpvc/?username=kkaskak&color=dc143c&abbreviated=true)
 
