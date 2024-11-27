@@ -1,4 +1,4 @@
-- I currently work as a full-stack developer at Stremio 
+- I currently work as a software engineer at Stremio 
   [https://www.stremio.com](https://www.stremio.com)
 
 - 👨‍💻 Web2, Web3, Rust 👾
