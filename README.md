@@ -1,5 +1,4 @@
-- Software engineer at Stremio
-  [https://www.stremio.com](https://www.stremio.com)
+- Software engineer at [Stremio](https://www.stremio.com)
 
 - 👨‍💻 Web3, Rust 👾
 
