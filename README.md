@@ -1,7 +1,7 @@
-- I currently work as a software engineer at Stremio 
+- Software engineer at Stremio
   [https://www.stremio.com](https://www.stremio.com)
 
-- 👨‍💻 Web2, Web3, Rust 👾
+- 👨‍💻 Web3, TypeScript, Swift, Rust 👾
 
 - 📫 How to reach me: 
 **timothy@stremio.com**
@@ -12,4 +12,4 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,react,nodejs,expressjs,mongodb,wasm,threejs,latex,babel,figma,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,swift,ts,rust,react,nodejs,expressjs,mongodb,wasm,threejs,latex,babel,figma,github,vscode)](https://skillicons.dev)
