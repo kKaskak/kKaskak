@@ -1,7 +1,7 @@
 - Software engineer at Stremio
   [https://www.stremio.com](https://www.stremio.com)
 
-- 👨‍💻 Web3, TypeScript, Swift, Rust 👾
+- 👨‍💻 Web3, Rust 👾
 
 - 📫 How to reach me: 
 **timothy@stremio.com**
