@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 **timothy@stremio.com**
 
-- 💸 ETH Sofia 2024 Hackathon bounty winner 🏆 (iExec, ICP) && ETH Sofia 2025 Participant
+- 💸 ETH Sofia 2024, 2025 Hackathon bounty winner 🏆
 
   ![](https://komarev.com/ghpvc/?username=kkaskak&color=dc143c&abbreviated=true)
 
